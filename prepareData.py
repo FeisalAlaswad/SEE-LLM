@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 16 12:50:21 2018
 
-@author: bking
-"""
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
