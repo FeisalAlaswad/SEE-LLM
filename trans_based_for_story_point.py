@@ -96,7 +96,7 @@ loss_fn = torch.nn.MSELoss()
 # -------------------------
 # Training Loop
 # -------------------------
-EPOCHS = 10
+EPOCHS = 20
 
 for epoch in range(EPOCHS):
     model.train()
@@ -252,7 +252,7 @@ model = RobertaRegressor().to(device)
 optimizer = AdamW(model.parameters(), lr=1e-5)
 loss_fn = torch.nn.MSELoss()
 
-EPOCHS = 8
+EPOCHS = 20
 
 save_path = f"models/SP-reberta.pt"
 save_dir = os.path.dirname(save_path)
@@ -402,8 +402,8 @@ class TextRegDataset(Dataset):
 train_ds = TextRegDataset(train_texts, y_train)
 test_ds  = TextRegDataset(test_texts, y_test)
 
-train_loader = DataLoader(train_ds, batch_size=8, shuffle=True)
-test_loader  = DataLoader(test_ds, batch_size=8)
+train_loader = DataLoader(train_ds, batch_size=16, shuffle=True)
+test_loader  = DataLoader(test_ds, batch_size=16)
 
 # -------------------------
 # GPT-2 Regression Model
@@ -429,7 +429,7 @@ loss_fn = torch.nn.MSELoss()
 # -------------------------
 # Training Loop
 # -------------------------
-EPOCHS = 10
+EPOCHS = 20
 save_path = f"models/SP-gpt2.pt"
 
 
