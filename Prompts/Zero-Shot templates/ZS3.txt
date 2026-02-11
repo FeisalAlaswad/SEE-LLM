@@ -1,0 +1,4 @@
+For the user story below, provide the Story Point estimate as an integer.
+Title: <title>
+Description: <description>
+Please reply with the number only.

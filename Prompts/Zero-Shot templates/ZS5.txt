@@ -1,0 +1,4 @@
+Compute the Story Point estimate for the given user story.
+Title: <title>
+Description: <description>
+Provide only the numeric value.

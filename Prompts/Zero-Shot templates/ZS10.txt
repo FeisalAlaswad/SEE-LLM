@@ -1,0 +1,4 @@
+Assess the following user story and return the estimated Story Points.
+Title: <title>
+Description: <description>
+Respond with only the integer.

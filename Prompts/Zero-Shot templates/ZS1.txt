@@ -1,0 +1,4 @@
+Given the following user story, estimate the Story Points as an integer.
+Title: <title>
+Description: <description>
+Answer with only the number.

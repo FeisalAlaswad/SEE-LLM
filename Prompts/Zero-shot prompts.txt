@@ -1,0 +1,49 @@
+1- Given the following user story, estimate the Story Points as an integer.
+Title: <title>
+Description: <description>
+Answer with only the number.
+
+2- Estimate the development effort required for the following user story using Story Points.
+Title: <title>
+Description: <description>
+Respond with only the Story Point estimate as an integer.
+
+3- For the user story below, provide the Story Point estimate as an integer.
+Title: <title>
+Description: <description>
+Please reply with the number only.
+
+4- Read the following user story and determine its Story Points.
+Title: <title>
+Description: <description>
+Answer using only the integer.
+
+5- Compute the Story Point estimate for the given user story.
+Title: <title>
+Description: <description>
+Provide only the numeric value.
+
+6- Based on the following user story, assign the corresponding Story Points as an integer.
+Title: <title>
+Description: <description>
+Respond with the number alone.
+
+7- Determine the effort in Story Points for the following user story.
+Title: <title>
+Description: <description>
+Reply with the integer only.
+
+8- Review the user story below and estimate its Story Points.
+Title: <title>
+Description: <description>
+Provide only the number.
+
+9- Given the user story details, output the Story Point estimate as an integer.
+Title: <title>
+Description: <description>
+Answer with the numeric value only.
+
+10- Assess the following user story and return the estimated Story Points.
+Title: <title>
+Description: <description>
+Respond with only the integer.

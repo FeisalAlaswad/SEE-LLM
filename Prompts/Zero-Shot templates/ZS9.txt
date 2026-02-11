@@ -1,0 +1,4 @@
+Given the user story details, output the Story Point estimate as an integer.
+Title: <title>
+Description: <description>
+Answer with the numeric value only.

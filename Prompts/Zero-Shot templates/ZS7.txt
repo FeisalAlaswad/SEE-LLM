@@ -1,0 +1,4 @@
+Determine the effort in Story Points for the following user story.
+Title: <title>
+Description: <description>
+Reply with the integer only.

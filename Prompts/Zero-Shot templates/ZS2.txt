@@ -1,0 +1,4 @@
+Estimate the development effort required for the following user story using Story Points.
+Title: <title>
+Description: <description>
+Respond with only the Story Point estimate as an integer.

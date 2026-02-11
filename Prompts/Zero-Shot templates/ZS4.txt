@@ -1,0 +1,4 @@
+Read the following user story and determine its Story Points.
+Title: <title>
+Description: <description>
+Answer using only the integer.

@@ -1,0 +1,4 @@
+Based on the following user story, assign the corresponding Story Points as an integer.
+Title: <title>
+Description: <description>
+Respond with the number alone.

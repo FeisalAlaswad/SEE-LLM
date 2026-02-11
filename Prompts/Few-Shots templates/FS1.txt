@@ -1,0 +1,13 @@
+Estimate the Story Points for the following user story. Refer to the examples for guidance.
+Example 1:
+Title: Add password reset feature
+Description: Allow users to reset their password via email verification.
+Story Points: 2
+Example 2:
+Title: Build product search functionality
+Description: Implement a search bar that filters products by category and keyword.
+Story Points: 4
+Now estimate the following user story:
+Title: <title>
+Description: <description>
+Provide only the Story Point estimate as an integer.
