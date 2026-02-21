@@ -1,12 +1,20 @@
 Determine the Story Points for the user story below, using these examples as references.
 Example 1:
-Title: Enable social media login
-Description: Allow login via Google and Facebook OAuth integration.
-Story Points: 3
+Title: <title1>
+Description: <description1>
+Story Points: {SP1}
+
 Example 2:
-Title: Generate monthly invoices
-Description: Create PDF invoices automatically for all completed orders each month.
-Story Points: 5
+Title: <title2>
+Description: <description2>
+Story Points: {SP2}
+.
+.
+Example 4:
+Title: <title4>
+Description: <description4>
+Story Points:{SP4}
+
 Now estimate the following user story:
 Title: <title>
 Description: <description>

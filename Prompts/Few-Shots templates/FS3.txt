@@ -1,12 +1,20 @@
 Assign Story Points to the following user story. Use the examples below to guide your estimation.
 Example 1:
-Title: Implement email notifications
-Description: Send email alerts for new messages and updates in the system.
-Story Points: 2
+Title: <title1>
+Description: <description1>
+Story Points: {SP1}
+
 Example 2:
-Title: Create analytics dashboard
-Description: Show KPIs and charts summarizing user engagement weekly.
-Story Points: 5
+Title: <title2>
+Description: <description2>
+Story Points: {SP2}
+.
+.
+Example 4:
+Title: <title4>
+Description: <description4>
+Story Points:{SP4}
+
 Now estimate the following user story:
 Title: <title>
 Description: <description>
