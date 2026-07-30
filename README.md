@@ -8,6 +8,24 @@ The benchmark evaluates and compares **traditional Machine Learning (ML)** model
 
 ---
 
+## 📖 Citation
+
+If you use this code in your research, please cite the following paper (not yet published):
+(Should be updated)
+```bibtex
+@article{alaswad2026cocomo,
+  title={From cocomo to gpt: A comprehensive evaluation of llm-based software effort estimation},
+  author={Alaswad, Feisal and Poovammal, E and Aljaddouh, Batoul},
+  journal={IEEE Access},
+  year={2026},
+  publisher={IEEE}
+}
+```
+
+
+
+---
+
 ## 📊 Estimation Tasks
 
 - **Story Point Estimation**  
@@ -76,22 +94,7 @@ This codebase is intended to support empirical research and comparative studies 
 
 ---
 
-## 📖 Citation
 
-If you use this code in your research, please cite the following paper (not yet published):
-(Should be updated)
-```bibtex
-@article{Alaswad2025SoftwareEstimation,
-  title   = {From COCOMO to GPT: A Comprehensive Evaluation of LLM-Based Software Effort Estimation},
-  author  = {Alaswad, Feisal and Poovammal, E. and Aljaddouh, Batoul},
-  journal = {Under Review},
-  year    = {2025},
-}
-```
-
-
-
----
 
 ## 📄 License
 
